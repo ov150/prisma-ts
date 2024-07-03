@@ -1,0 +1,16 @@
+Prisma Client(auto-generated and type-safe query builder)
+Prisma Migration(Declaration data modeling & Migration system)
+Prisma Studio(GUI to view and edit your data)
+
+npm init
+npm install typescript ts-node @types/node -D
+npx tsc --init   
+npm i prisma -D
+npx prisma init --datasourse -provider sqlite
+npx prisma migrate dev --name init 
+
+
+
+
+
+
